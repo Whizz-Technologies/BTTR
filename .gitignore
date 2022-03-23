@@ -130,3 +130,9 @@ MNIST
 .DS_Store
 versions.md
 result.zip
+
+#Ignore zip file
+*.zip
+
+#Ignore bmp file
+*.bmp
